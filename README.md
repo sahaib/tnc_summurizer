@@ -49,14 +49,14 @@ A Python GUI application that summarizes Terms and Conditions (TnC) and Privacy 
 - For Claude version: Replace 'your-anthropic-api-key-here' in the `get_summary_from_claude` method with your actual Anthropic API key.
 
 ## Contributing:
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change. I have not yet tested the Claude version, feel free to share the feedbacks for same.
 
 ## License:
 [MIT](https://choosealicense.com/licenses/mit/)
 
 ## Note:
 While similar functionality exists in ChatGPT and Claude, this project serves as a fun use case and learning experience. It provides a custom interface and additional features like history and formatting that may not be available in the standard AI interfaces.
-I have not yet testd the Claude version, feel free to share feedbacks.
+
 
 ## App Preview:
 ![Main App](summurizer.png)
