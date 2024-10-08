@@ -4,3 +4,6 @@ A tool created using Cursor IDE, of cource you can do this in your claude or cha
 This is a python GUI application. 
 Replace your actual OpenAI API key in the code and run.
 
+![Main App](summurizer.png)
+![Main App](summary_history.png)
+
