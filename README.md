@@ -60,5 +60,5 @@ While similar functionality exists in ChatGPT and Claude, this project serves as
 
 ## App Preview:
 ![Main App](summurizer.png)
-![Main App](summary_history.png)
+![History](summary_history.png)
 
